@@ -1,4 +1,6 @@
-go-socks5 [![Build Status](https://travis-ci.org/armon/go-socks5.png)](https://travis-ci.org/armon/go-socks5)
+go-socks5 
+[![Build Status](https://travis-ci.org/RaveNoX/go-socks5.svg?branch=master)](https://travis-ci.org/RaveNoX/go-socks5)
+[![GoDoc](https://godoc.org/github.com/RaveNoX/go-socks5?status.svg)](https://godoc.org/github.com/RaveNoX/go-socks5)
 =========
 
 Provides the `socks5` package that implements a [SOCKS5 server](http://en.wikipedia.org/wiki/SOCKS).
